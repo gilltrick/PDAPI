@@ -11,9 +11,7 @@ def push():
 
 @server.route("/pull", methods=["get"])
 def pull():
-    data = request.json
-    print(data)
-    return data
+    return "{\"user\":\"user\",\"pass\":\"1234\"}"
 
 def SaveData(data):
     file = open(os.getcwd()+"/file.json", "w")
