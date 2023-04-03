@@ -7,7 +7,6 @@ server = Flask(__name__)
 def push():
     data = request.json
     # SaveData(data)
-    print(data)
     return data
 
 def SaveData(data):
