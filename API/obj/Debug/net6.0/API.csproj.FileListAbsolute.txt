@@ -1,0 +1,15 @@
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\Desktop\REST-Schaubild\API\bin\Debug\net6.0\API.exe
+C:\Users\Terminal\Desktop\REST-Schaubild\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Terminal\Desktop\REST-Schaubild\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Terminal\Desktop\REST-Schaubild\API\bin\Debug\net6.0\API.dll
+C:\Users\Terminal\Desktop\REST-Schaubild\API\bin\Debug\net6.0\API.pdb
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.dll
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.pdb
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Terminal\Desktop\REST-Schaubild\API\obj\Debug\net6.0\ref\API.dll
