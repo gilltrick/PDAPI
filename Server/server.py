@@ -12,6 +12,7 @@ def push():
 @server.route("/pull", methods=["get"])
 def pull():
     data = request.json
+    print(data)
     # SaveData(data)
     return data
 
