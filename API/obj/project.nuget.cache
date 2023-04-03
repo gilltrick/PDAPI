@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UA/xu4TxRipFNiLBBdWgK5gyDlAXe3VYi9zGvIOBSJnZoTuH2mKpJ6OhUWRCCu3Uxcu+2po0O0CNW9PrxHTFXQ==",
+  "dgSpecHash": "zD76vbsCfopXVo1Xa/vKxdHLdwxWHpH8Vh9hlSWhXioSxebE28kqvcH6UQEAeU5LdUDVXlYHrbbcR82SU2APVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Terminal\\Desktop\\REST-Schaubild\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Terminal\\Desktop\\PDAPI\\API\\API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
