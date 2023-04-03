@@ -13,7 +13,6 @@ def push():
 def pull():
     data = request.json
     print(data)
-    # SaveData(data)
     return data
 
 def SaveData(data):
