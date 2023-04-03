@@ -9,6 +9,12 @@ def push():
     # SaveData(data)
     return data
 
+@server.route("/pull", methods=["get"])
+def pull():
+    data = request.json
+    # SaveData(data)
+    return data
+
 def SaveData(data):
     file = open(os.getcwd()+"/file.json", "w")
     json.dump(data, file)
