@@ -10,8 +10,8 @@ class API{
     public static  void Main(){
 
         InitClient();
-        Post(GetTestData());
-    
+        //Post(GetTestData());
+        Get(GetTestData());
         string input = Console.ReadLine();
         
     }
@@ -32,5 +32,12 @@ class API{
         HttpResponseMessage result = await client.PostAsync("push", content);
         string resultContent = await result.Content.ReadAsStringAsync();   
         Console.WriteLine(resultContent);
-    } 
+    }
+    public static async void Get(string json){
+
+        StringContent content = new StringContent(json, Encoding.UTF8, "application/json"); 
+        HttpResponseMessage result = await client.GetAsync("pull");
+        string resultContent = await result.Content.ReadAsStringAsync();   
+        Console.WriteLine(resultContent);
+    }  
 }
