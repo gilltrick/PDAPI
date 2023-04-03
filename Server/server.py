@@ -7,7 +7,12 @@ server = Flask(__name__)
 def push():
     data = request.json
     # SaveData(data)
-    print(data)
+    return data
+
+@server.route("/pull", methods=["get"])
+def pull():
+    data = request.json
+    # SaveData(data)
     return data
 
 def SaveData(data):
